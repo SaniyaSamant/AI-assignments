@@ -6,13 +6,13 @@ Welcome to my **AI Assignments Repository**! 🤖✨ This repository contains Py
 
 | 🔢 | Assignment                            | 📂 File Name                  | 🏷️ Key Topics |
 |----|--------------------------------------|----------------------------|------------|
-| 1️⃣  | 8-Puzzle Solver (DFS, BFS, A*)      | `8_puzzle.py`              | Search Algorithms |
-| 2️⃣  | Constraint Satisfaction Problem     | `constraint_solver.py`     | Constraint Solving |
-| 3️⃣  | Tic-Tac-Toe Bot (Minimax Algorithm) | `tic_tac_toe_bot.py`       | Game AI |
-| 4️⃣  | Family Tree Parsing (Knowledge Base)| `family_tree_parser.py`    | Knowledge Representation |
-| 5️⃣  | Reinforcement Learning Agent        | `reinforcement_agent.py`   | RL & Decision Making |
-| 6️⃣  | Time Series Analysis                | `time_series_analysis.py`  | Data Analysis |
-| 7️⃣  | Sentiment Analysis                  | `sentiment_analysis.py`    | NLP & Text Mining |
+| 1️⃣  | 8-Puzzle Solver (DFS, BFS, A*)      | `8-puzzle.py`              | Search Algorithms |
+| 2️⃣  | Constraint Satisfaction Problem     | `Sudoko.py`     | Constraint Solving |
+| 3️⃣  | Tic-Tac-Toe Bot (Minimax Algorithm) | `tic-tac-toe.py`       | Game AI |
+| 4️⃣  | Family Tree Parsing (Knowledge Base)| `Family-tree.py`    | Knowledge Representation |
+| 5️⃣  | Reinforcement Learning Agent        | `Learning-Agent.py`   | RL & Decision Making |
+| 6️⃣  | Time Series Analysis                | `Time-series.py`  | Data Analysis |
+| 7️⃣  | Sentiment Analysis                  | `Sentiment-analysis.py`    | NLP & Text Mining |
 
 ---
 
