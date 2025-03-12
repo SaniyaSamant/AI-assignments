@@ -7,12 +7,13 @@ Welcome to my **AI Assignments Repository**! 🤖✨ This repository contains Py
 | 🔢 | Assignment                            | 📂 File Name                  | 🏷️ Key Topics |
 |----|--------------------------------------|----------------------------|------------|
 | 1️⃣  | 8-Puzzle Solver (DFS, BFS, A*)      | `8-puzzle.py`              | Search Algorithms |
-| 2️⃣  | Constraint Satisfaction Problem     | `Sudoko.py`     | Constraint Solving |
-| 3️⃣  | Tic-Tac-Toe Bot (Minimax Algorithm) | `tic-tac-toe.py`       | Game AI |
-| 4️⃣  | Family Tree Parsing (Knowledge Base)| `Family-tree.py`    | Knowledge Representation |
-| 5️⃣  | Reinforcement Learning Agent        | `Learning-Agent.py`   | RL & Decision Making |
-| 6️⃣  | Time Series Analysis                | `Time-series.py`  | Data Analysis |
+| 2️⃣  | Sudoku Solver                        | `Sudoko.py`                | Constraint Solving |
+| 3️⃣  | Tic-Tac-Toe Bot (Minimax Algorithm) | `tic-tac-toe.py`           | Game AI |
+| 4️⃣  | Family Tree Parsing (Knowledge Base)| `Family-tree.py`           | Knowledge Representation |
+| 5️⃣  | Reinforcement Learning Agent        | `Learning-Agent.py`        | RL & Decision Making |
+| 6️⃣  | Time Series Analysis                | `Time-series.py`           | Data Analysis |
 | 7️⃣  | Sentiment Analysis                  | `Sentiment-analysis.py`    | NLP & Text Mining |
+| 8️⃣  | Speech Recognition System           | `speechRecognizer.py`     | Speech Processing |
 
 ---
 
@@ -36,9 +37,9 @@ cd AI-Assignments-2024
 ### 🔹 2️⃣ Run Each Assignment
 Each assignment can be run using Python. Example:
 ```bash
-python 8_puzzle.py
+python 8-puzzle.py
 ```
-💡 Replace `8_puzzle.py` with the desired script filename.
+💡 Replace `8-puzzle.py` with the desired script filename.
 
 ### 🔹 3️⃣ Explore & Modify
 Feel free to explore the code, tweak the algorithms, and experiment! 🛠️
@@ -55,4 +56,3 @@ This repository is open-source and available under the [MIT License](LICENSE).
 
 🌟 **If you find this useful, consider giving it a star! ⭐**
 
-Made with ❤️ by [Your Name]
