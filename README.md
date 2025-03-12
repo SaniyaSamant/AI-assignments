@@ -4,7 +4,7 @@ Welcome to my **AI Assignments Repository**! 🚀 This repository contains a col
 
 ## 📌 Table of Contents
 1. [8-Puzzle Solver (DFS, BFS, A*)](#1-8-puzzle-solver)
-2. [Constraint Satisfaction Problem](#2-constraint-satisfaction-problem)
+2. [Constraint Satisfaction Problem (Sudoku)](#2-constraint-satisfaction-problem)
 3. [Tic-Tac-Toe Bot](#3-tic-tac-toe-bot)
 4. [Family Tree Parsing (Knowledge Base)](#4-family-tree-parsing)
 5. [Reinforcement Learning Agent](#5-reinforcement-learning-agent)
